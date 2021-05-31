@@ -13,7 +13,7 @@ Its an ingenuous and modular e-commerce that is easily customizable according to
 </P>
 
 <h3>In this project we have</h3>
-Admin Module:
+<strong>Admin Module:</strong>
 <ul>
   <li>CRUD Operation for Products</li>
   <li>CRUD Operation for Categories</li>
@@ -23,7 +23,7 @@ Admin Module:
   <li>Payment Gateways (Stripe, Paypal)</li>
   <li>Managing Order details</li>
 </ul>
-Customer Module:
+<strong>Customer Module:</strong>
 <ul>
   <li>Interactive Pages</li>
   <li>Products based on categories</li>
